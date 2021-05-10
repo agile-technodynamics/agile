@@ -1,0 +1,24 @@
+{
+    "productDescription":"Suspendisse blandit ornare pellentesque. Sed quis magna nibh. Sed a sem eros. Sed scelerisque felis condimentum, ",
+    "productImage1": [{
+        "public_id":"products/gknqbkubrep5xzvaye3d.png",
+        "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1613115946/products/gknqbkubrep5xzvaye3d.png"
+    }],
+
+    "productImage2": [{
+        "public_id":"products/k187djd6xazvxtfiwt7v.png",
+        "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1613183785/products/k187djd6xazvxtfiwt7v.png"
+    }],
+
+    "titleBackground": [{
+        "public_id":"welcome-bg_agacxj.png",
+        "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1610472389/welcome-bg_agacxj.png"
+    }],
+
+    "servicesBackground": [{
+        "public_id":"service-bg_lbwajk.jpg",
+        "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1610472388/service-bg_lbwajk.jpg"
+    }],
+
+    "servicesDescription":"Suspendisse blandit ornare pellentesque. Sed quis magna nibh. Sed a sem eros. Sed scelerisque felis condimentum, iaculis purus sed, lobortis mi. Donec leo dui, rhoncus nec enim eu,. "
+}

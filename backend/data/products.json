@@ -1,0 +1,92 @@
+[
+    {
+        "name": "2V AGM Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/2v-agm-battery_qtplaq",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921523/samples/products/2v-agm-battery_qtplaq.png"
+        }],
+        "category": "Category1"
+    
+    },
+    {
+        "name": "2V Hybrid Gel Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/2v-hybrid-gel-battery_uygsi4",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921523/samples/products/2v-hybrid-gel-battery_uygsi4.png"
+        }],
+        "category": "Category2"
+    
+    },
+    {
+        "name": "2V Tubular Flooded Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/2v-tubular-flooded-battery-2_f8nkoc",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921523/samples/products/2v-tubular-flooded-battery-2_f8nkoc.png"
+        }],
+        "category": "Category3"
+    
+    },
+    {
+        "name": "2V Tubular Gel Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/2v-tubular-gel-battery_oneydg",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921523/samples/products/2v-tubular-gel-battery_oneydg.png"
+        }],
+        "category": "Category4"
+    
+    },
+    {
+        "name": "12V Hybrid Gel Front Access Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/12v-hybrid-gel-front-access-battery_d7maov",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921524/samples/products/12v-hybrid-gel-front-access-battery_d7maov.png"
+        }],
+        "category": "Category5"
+    
+    },
+    {
+        "name": "12V Tubular Gel Front Access Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/12v-tubular-gel-front-access-battery_izywrl",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921524/samples/products/12v-tubular-gel-front-access-battery_izywrl.png"
+        }],
+        "category": "Category6"
+    
+    },
+    {
+        "name": "Add Arrester Default Detector",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/add-arrester-default-detector_teiaeh",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921524/samples/products/add-arrester-default-detector_teiaeh.png"
+        }],
+        "category": "Category7"
+    
+    },
+    {
+        "name": "AGM Front Access Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/agm-front-access-battery_yzo6ed",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921527/samples/products/agm-front-access-battery_yzo6ed.png"
+        }],
+        "category": "Category2"
+    
+    },
+    {
+        "name": "AGM General Battery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque semper, ex sed egestas ultrices, leo diam efficitur leo, ac mattis augue risus non enim",
+        "images" : [{
+            "public_id":"products/agm-general-battery_vhdh6u",
+            "url":"https://res.cloudinary.com/agiletech3itf/image/upload/v1609921524/samples/products/agm-general-battery_vhdh6u.png"
+        }],
+        "category": "Category3"
+    
+    }
+]
