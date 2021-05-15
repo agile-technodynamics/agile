@@ -2,7 +2,7 @@ const About = require('../models/about')
 const catchAsyncErrors = require('../middlewares/catchAsyncErrors')
 const ErrorHandler = require('../utils/errorHandler')
 
-// get all about us details => /api/v1/allaboutus
+// get all about us details  => /api/v1/allaboutus
 exports.getAllAbout = catchAsyncErrors (async(req,res,next) => {
     const abouts = await About.find()
 
