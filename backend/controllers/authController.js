@@ -39,7 +39,6 @@ exports.loginUser = catchAsyncErrors( async(req, res, next) => {
         return next(new ErrorHandler('Invalid Email or Password', 401))
     }
 
-    console.log(`Logged in: ${user.name}`)
     sendToken(user, 200, res)
 })
 
@@ -153,8 +152,6 @@ exports.resetPassword = catchAsyncErrors(async (req, res, next) => {
 exports.getUserProfile = catchAsyncErrors(async (req, res, next) => {
     const user = await User.findById(req.user.id)
 
-    console.log(`Current user: ${user.name}`)
-
     res.status(200).json({
         success: true,
         user
@@ -226,8 +223,6 @@ exports.logout = catchAsyncErrors( async( req, res, next) => {
         expires: new Date(Date.now()),
         httpOnly: true
     })
-    
-    console.log(`Logged out`)
 
     res.status(200).json({
         success: true,
